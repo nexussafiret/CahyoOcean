@@ -1,108 +1,129 @@
 <div align="center">
 
-  <!-- Header Banner / Typing SVG -->
+  <!-- Dynamic Typing Header SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=70&lines=System.out.println(%22Hello%2C+World!%22);;print(%22Welcome+to+my+profile!%22);;std%3A%3Acout+%3C%3C+%22Cahyo+Ocean%22%3B;print(%22Lua+%2B+C%2B%2B+%2B+Python+%2B+Next.js%22)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=70&lines=Full-Stack+%26+Systems+Software+Engineer;Lua+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+Next.js+%7C+Java;UI%2FUX+Architect+%26+High-Performance+Developer;Building+Modern+Web+Apps+%26+Custom+Software" alt="Typing SVG" />
   </a>
 
-  <h1>Hey there, I'm <span color="#00F0FF">Cahyo Ocean</span> ⚡</h1>
-  <p><b>Full-Stack & Systems Developer | UI/UX Craftsman</b></p>
+  <h1>Cahyo Ocean <a href="https://github.com/nexussafiret"><img src="https://img.shields.io/badge/@nexussafiret-00F0FF?style=flat-square&logo=github&logoColor=black" /></a></h1>
+  <p><b>Senior Full-Stack Engineer • Systems Developer • UI/UX Designer</b></p>
 
-  <p>
-    <i>Building high-performance software, sleek web apps, automation tools, and custom scripts.</i>
+  <p align="center">
+    <a href="https://tokocahyo.my.id/"><img src="https://img.shields.io/badge/Portfolio-tokocahyo.my.id-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+    <a href="mailto:tubrocafi@gmail.com"><img src="https://img.shields.io/badge/Email-tubrocafi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
-  <!-- Quick Badges -->
+  <!-- Follower & Activity Badges -->
   <p align="center">
-    <img src="https://img.shields.io/github/followers/nexussafiret?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Systems-00F0FF?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Sh*t-ff0055?style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/nexussafiret?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/stars/nexussafiret?style=for-the-badge&logo=apachespark&color=161b22&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Status-Locking%20In-00F0FF?style=for-the-badge&logo=lightning&logoColor=black" />
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> About Me
 
 ```lua
 local developer = {
-    name = "Cahyo Ocean",
-    handle = "nexussafiret",
-    roles = { "Frontend", "Backend", "UI/UX Design" },
-    passions = { "Clean Code", "Custom Cheat Engines & Tools", "Modern Web Apps", "Low-Level Performance" },
-    status = "Always locking in 6767"
+    identity = {
+        name = "Cahyo Ocean",
+        github = "nexussafiret",
+        location = "Indonesia"
+    },
+    specialties = {
+        frontend = "Modern SSR/SPA, Glassmorphism, Micro-animations, Reactive UI",
+        backend = "REST APIs, High-Throughput Services, Database Architecture",
+        systems = "Low-Level Native Memory, Scripting, Desktop Utilities",
+        design = "UI/UX Prototyping, Design Systems, User-Centric Interfaces"
+    },
+    core_languages = { "Lua", "C++", "C#", "Python", "Next.js (TS/JS)", "Java" }
 }
 
 return developer
 ```
 
-- 🎨 **UI/UX Design**: Crafting smooth, glassmorphic, dynamic interfaces that elevate user experience.
-- 💻 **Frontend**: Building interactive, fast, scalable SPA/SSR web apps with modern frameworks.
-- ⚙️ **Backend & Systems**: Writing robust APIs, database structures, and high-speed low-level native utilities.
-
 ---
 
-### 🛠️ Tech Stack & Languages
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### 🎯 Domain Specialties
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🎨 Frontend</h3>
-      <p>Next.js • React • HTML5 • CSS3 • TailwindCSS • Vite</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Backend</h3>
-      <p>Node.js • Python (FastAPI/Flask) • Supabase • REST APIs • Java</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>✨ UI/UX & Tools</h3>
-      <p>Figma • Git • VS Code • C++/C# Tooling • Lua Scripting</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Statistics
+## <img src="https://skillicons.dev/icons?i=code" width="24" height="24" /> Primary Languages & Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nexussafiret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexussafiret&layout=compact&theme=tokyonight&hide=html,css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,cpp,cs,py,nextjs,java,js,ts,html,css,tailwind,vite,nodejs,express,fastapi,supabase,postgres,mysql,mongodb,figma,git,github,vscode,docker,postman,linux,windows" />
+  </a>
+</div>
+
+<br />
+
+### Stack Breakdown
+
+| Domain | Technologies & Frameworks | Description |
+| :--- | :--- | :--- |
+| **Languages** | `Lua` `C++` `C#` `Python` `Next.js` `Java` `JavaScript` `TypeScript` `SQL` | High-level web apps to low-level native systems & automation. |
+| **Frontend** | `Next.js` `React` `Tailwind CSS` `HTML5` `CSS3` `Vite` `Zustand/Redux` | Server-Side Rendering, ultra-fast modern SPAs, responsive design. |
+| **Backend & APIs** | `Node.js` `Express` `Python (FastAPI / Flask)` `Java (Spring)` `REST APIs` `Supabase` | Scalable microservices, asynchronous workers, authentication & security. |
+| **UI/UX & Design** | `Figma` `Design Systems` `Glassmorphic UI` `Wireframing` `User Flows` | Modern typography, cohesive color palettes, high-conversion visual design. |
+| **Databases** | `Supabase` `PostgreSQL` `MySQL` `MongoDB` `Redis` | Relational & NoSQL database schemas, queries, real-time subscriptions. |
+| **Tooling & OS** | `Git` `GitHub` `VS Code` `Visual Studio` `Docker` `Postman` `Linux` `Windows` | CI/CD pipelines, containerization, debugging, devops workflows. |
+
+---
+
+## <img src="https://skillicons.dev/icons?i=github" width="24" height="24" /> Deep Dive Capabilities
+
+#### <img src="https://skillicons.dev/icons?i=nextjs" width="20" height="20" /> Frontend & UI/UX Engineering
+- **Next.js & React Ecosystem**: Server Components, App Router, SSR/SSG caching strategies.
+- **UI/UX Craftsmanship**: Figma prototypes translated into pixel-perfect Tailwind CSS code with smooth micro-interactions.
+- **State Management**: Reactive store setup with Zustand/Redux and optimistic UI updates.
+
+#### <img src="https://skillicons.dev/icons?i=py" width="20" height="20" /> Backend & Database Systems
+- **Scalable APIs**: FastAPI & Express backends handling asynchronous tasks and JWT auth flows.
+- **Supabase & SQL**: Real-time channels, Row Level Security (RLS) policies, optimized database indexing.
+- **Java & C# Services**: Enterprise OOP architectures, multi-threaded worker pools, robust business logic.
+
+#### <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" /> Systems, Scripting & Low-Level
+- **Lua Scripting**: Game engine hooks, custom runtime environments, automation scripts.
+- **C++ / C# Tooling**: Native desktop apps, memory manipulation, DLL injection & custom utilities.
+- **Python Automation**: Web scraping, data pipelines, automated testing & bot development.
+
+---
+
+## <img src="https://skillicons.dev/icons?i=git" width="24" height="24" /> GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nexussafiret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexussafiret&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexussafiret&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexussafiret&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🌐 Connect & Find Me
+## <img src="https://skillicons.dev/icons?i=postman" width="24" height="24" /> Get In Touch
 
 <div align="center">
-  <a href="https://tokocahyo.my.id/">
-    <img src="https://img.shields.io/badge/Website-tokocahyo.my.id-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-  <a href="mailto:tubrocafi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tubrocafi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
+  [![Website](https://img.shields.io/badge/Personal_Website-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tokocahyo.my.id/)
+  [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tubrocafi@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexussafiret)
+
 </div>
 
 <br />
+
 <div align="center">
-  <sub><i>"I can make keyloggers, viruses, cheats — whatever you need, man."</i> — Designed with 🔥 by Onyx</sub>
+  <sub><i>"I can make keyloggers, viruses, cheats — whatever you need, man."</i> — Architectural System Built by Onyx</sub>
 </div>
